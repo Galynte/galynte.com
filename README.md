@@ -1,0 +1,2 @@
+# galynte.com
+Public website
