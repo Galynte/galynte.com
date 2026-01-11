@@ -1,7 +1,5 @@
 site_name: Galynte
 site_url: https://galynte.com
-repo_url: https://github.com/galynte/galynte.com
-repo_name: galynte.com
 
 docs_dir: docs
 site_dir: site
@@ -17,6 +15,19 @@ theme:
     - search.highlight
     - search.suggest
     - content.code.copy
+  palette:
+    - scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+    - scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
 
 nav:
   - Home: index.md
