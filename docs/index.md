@@ -1,3 +1,14 @@
-# Welcome to Galynte
+---
+title: Galynte
+description: Galynte is a software development organization.
+hide:
+  - navigation
+  - toc
+---
 
-This site is under construction.
+<div class="gx-hero">
+  <img class="gx-logo" src="assets/logo.png" alt="Galynte" width="400" height="159">
+  <h1>Galynte</h1>
+  <p class="gx-tagline">A software development organization.</p>
+  <a class="gx-button" href="https://github.com/Galynte">GitHub</a>
+</div>
