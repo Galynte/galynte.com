@@ -13,6 +13,7 @@ extra:
 
 theme:
   name: material
+  custom_dir: overrides
   language: en
   logo: assets/mark.png
   favicon: assets/favicon.png
@@ -43,7 +44,8 @@ extra_css:
 nav:
   - Home: index.md
 
-plugins: []
+plugins:
+  - privacy
 
 markdown_extensions:
   - admonition
