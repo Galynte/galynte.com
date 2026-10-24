@@ -2,6 +2,7 @@
   --gx-navy: #0b121a;
   --gx-ink: #f4f1ea;
   --gx-muted: #c5ced8;
+  color-scheme: dark light;
 }
 
 [data-md-color-scheme="slate"],
@@ -66,7 +67,7 @@
   padding: 0;
   margin: -1px;
   overflow: hidden;
-  clip: rect(0, 0, 0, 0);
+  clip-path: inset(50%);
   white-space: nowrap;
   border: 0;
 }
