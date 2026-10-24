@@ -1,2 +1,3 @@
 # galynte.com
-Public website
+
+Public website: [https://galynte.com](https://galynte.com)
